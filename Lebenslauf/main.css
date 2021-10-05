@@ -1,0 +1,14 @@
+.moveimage {
+    position: relative; position: absolute;
+    margin-left: 455px;
+}
+
+.Papierformat {
+    height: 257mm;
+    width: 170mm;
+    margin: 20mm;
+}
+body {
+    background-color: #121212;
+    color:white;
+  }
