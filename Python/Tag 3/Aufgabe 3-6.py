@@ -9,7 +9,7 @@ while Pause < 5: #Hier kannst du einstellen wie oft du Pause machst! (5 * 90min)
     time.sleep(5400) #Hier kannst du die Lernzeit in sekunden ändern! (90min * 60sek) oder auch sowas wie (45min * 60sek)
     
     print("Gönn dir deine Pause!")
-
+    
     webbrowser.open("https://www.youtube.com/watch?v=MxgsrPFsWzg&ab_channel=scroll忍")
     time.sleep(92)
 
